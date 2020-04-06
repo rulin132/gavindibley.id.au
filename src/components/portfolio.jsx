@@ -8,7 +8,7 @@ export default class Portfolio extends Component {
       <div className="row no-gutters">
         <div className="col-lg-4 col-sm-6">
           <a className="portfolio-box" href="javascript:void(0)">
-            <img className="img-fluid" src="images/portfolio/thumbnails/1.jpg" alt="" />
+            <img className="img-fluid" src="images/portfolio/thumbnails/1.webp" alt="" />
             <div className="portfolio-box-caption">
               <div className="project-category text-white-50">
                 Brand Website
@@ -21,7 +21,7 @@ export default class Portfolio extends Component {
         </div>
         <div className="col-lg-4 col-sm-6">
           <a className="portfolio-box" href="javascript:void(0)">
-            <img className="img-fluid" src="images/portfolio/thumbnails/2.jpg" alt="" />
+            <img className="img-fluid" src="images/portfolio/thumbnails/2.webp" alt="" />
             <div className="portfolio-box-caption">
               <div className="project-category text-white-50">
                 Brand Website
@@ -34,7 +34,7 @@ export default class Portfolio extends Component {
         </div>
         <div className="col-lg-4 col-sm-6">
           <a className="portfolio-box" href="javascript:void(0)">
-            <img className="img-fluid" src="images/portfolio/thumbnails/3.jpg" alt="" />
+            <img className="img-fluid" src="images/portfolio/thumbnails/3.webp" alt="" />
             <div className="portfolio-box-caption">
               <div className="project-category text-white-50">
                 Web Application
@@ -48,7 +48,7 @@ export default class Portfolio extends Component {
         </div>
         <div className="col-lg-4 col-sm-6">
           <a className="portfolio-box" href="javascript:void(0)">
-            <img className="img-fluid" src="images/portfolio/thumbnails/4.jpg" alt="" />
+            <img className="img-fluid" src="images/portfolio/thumbnails/4.webp" alt="" />
             <div className="portfolio-box-caption">
               <div className="project-category text-white-50">
                 Brand Website
@@ -61,7 +61,7 @@ export default class Portfolio extends Component {
         </div>
         <div className="col-lg-4 col-sm-6">
           <a className="portfolio-box" href="javascript:void(0)">
-            <img className="img-fluid" src="images/portfolio/thumbnails/5.jpg" alt="" />
+            <img className="img-fluid" src="images/portfolio/thumbnails/5.webp" alt="" />
             <div className="portfolio-box-caption">
               <div className="project-category text-white-50">
                   Live Streaming Website
@@ -74,7 +74,7 @@ export default class Portfolio extends Component {
         </div>
         <div className="col-lg-4 col-sm-6">
           <a className="portfolio-box" href="javascript:void(0)">
-            <img className="img-fluid" src="images/portfolio/thumbnails/6.jpg" alt="" />
+            <img className="img-fluid" src="images/portfolio/thumbnails/6.webp" alt="" />
             <div className="portfolio-box-caption p-3">
               <div className="project-category text-white-50">
                 Brand Website
