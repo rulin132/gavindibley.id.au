@@ -1,5 +1,5 @@
 
-![Gavin Dibley](https://gavindibley.id.au/images/logo.png)
+![Gavin Dibley](https://gavindibley.id.au/images/logo.webp)
 
 My personal website to introduce myself, showcase my skills and assist in contacting me. I am all ears, happy to hear all feedback or criticism, I'll be trying my best to keep this website updated and constantly add to it when I get the chance.
 
