@@ -7,8 +7,6 @@
     <list default="true" id="82351668-72e0-46dc-802e-f38731eee0cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650114919031</updated>
       <workItem from="1650114921284" duration="7396000" />
-      <workItem from="1650197494598" duration="4991000" />
+      <workItem from="1650197494598" duration="5815000" />
     </task>
     <servers />
   </component>
