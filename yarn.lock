@@ -249,6 +249,11 @@
   resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.16.7.tgz#aa3a8ab4c3cceff8e65eb9e73d87dc4ff320b2f5"
   integrity sha512-Qg3Nk7ZxpgMrsox6HreY1ZNKdBq7K72tDSliA6dCl5f007jR4ne8iD5UzuNnCJH2xBf2BEEVGr+/OL6Gdp7RxA==
 
+"@babel/helper-plugin-utils@^7.29.7":
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.29.7.tgz#c0a0766f1a13617d8a17407d7ab8f9d486225ea4"
+  integrity sha512-G7sHYigPY17oO5SYWnfD/0MTBwVR781S/JI643e/JhUYgVgWE/61SoW3NH9KWUKyKq5LVh3npif99Wkt6j86Jw==
+
 "@babel/helper-remap-async-to-generator@^7.16.8":
   version "7.16.8"
   resolved "https://registry.yarnpkg.com/@babel/helper-remap-async-to-generator/-/helper-remap-async-to-generator-7.16.8.tgz#29ffaade68a367e2ed09c90901986918d25e57e3"
@@ -789,15 +794,14 @@
     babel-plugin-dynamic-import-node "^2.3.3"
 
 "@babel/plugin-transform-modules-systemjs@^7.16.7":
-  version "7.17.8"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-systemjs/-/plugin-transform-modules-systemjs-7.17.8.tgz#81fd834024fae14ea78fbe34168b042f38703859"
-  integrity sha512-39reIkMTUVagzgA5x88zDYXPCMT6lcaRKs1+S9K6NKBPErbgO/w/kP8GlNQTC87b412ZTlmNgr3k2JrWgHH+Bw==
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-systemjs/-/plugin-transform-modules-systemjs-7.29.7.tgz#e575dd2ab9882906de120ff7dc9dee9914d8b6f3"
+  integrity sha512-TM2ZcQLoG2/y4HODiStCo10DibYhWhGWAwVv+EQKmG/7GFl0N+AAmUiXOMKM+aiJ9XBJ9AHVZBvTzMnJ2sM3cQ==
   dependencies:
-    "@babel/helper-hoist-variables" "^7.16.7"
-    "@babel/helper-module-transforms" "^7.17.7"
-    "@babel/helper-plugin-utils" "^7.16.7"
-    "@babel/helper-validator-identifier" "^7.16.7"
-    babel-plugin-dynamic-import-node "^2.3.3"
+    "@babel/helper-module-transforms" "^7.29.7"
+    "@babel/helper-plugin-utils" "^7.29.7"
+    "@babel/helper-validator-identifier" "^7.29.7"
+    "@babel/traverse" "^7.29.7"
 
 "@babel/plugin-transform-modules-umd@^7.16.7":
   version "7.16.7"
